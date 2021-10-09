@@ -1,4 +1,4 @@
-# TSF-INTERN
+# TSF-INTERN.github.io
 Basic Banking System,  A Web Application used to transfer money between multiple users, and viewing transaction history.
 
 Sparks Foundation Internship Task#2 : Basic Banking System
